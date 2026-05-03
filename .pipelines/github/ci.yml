@@ -1,4 +1,4 @@
-# Mirrors .pipelines/github/ci.yml — GitHub executes workflows only from this directory.
+# Canonical CI workflow; mirrored at .github/workflows/ci.yml (GitHub only runs workflows from there).
 name: CI
 
 on:

@@ -15,7 +15,8 @@ Python package and automation layout for **MLflow** experiments: tracking, scrip
 | `docs/` | Long-form documentation |
 | `examples/` | Small runnable samples |
 | `.agents/skills/` | Agent-oriented skill buckets (`readme`, `docs`, `presentation`, …) |
-| `.github/` | GitHub Actions, Dependabot, issue/PR templates |
+| `.pipelines/` | CI shell (`ci.sh`) and canonical workflow YAML (`github/ci.yml`; mirrored under `.github/workflows/`) |
+| `.github/` | GitHub Actions entrypoint, Dependabot, issue/PR templates |
 | `.gitlab/` | GitLab issue & merge request templates |
 | `.forgejo/` | Forgejo/Codeberg-compatible workflows |
 | `.gitlab-ci.yml` | GitLab CI pipeline |
