@@ -1,0 +1,14 @@
+.git
+.github
+.gitlab
+.forgejo
+.agents
+__pycache__
+*.pyc
+.pytest_cache
+.ruff_cache
+.venv
+venv
+mlruns
+experiment_tracking
+notebooks/.ipynb_checkpoints

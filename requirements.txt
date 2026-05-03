@@ -1,0 +1,2 @@
+# Pin installs for deployments or legacy workflows; prefer pyproject.toml for dev.
+mlflow>=2.10
